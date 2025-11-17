@@ -113,11 +113,3 @@ After deleting the player with lowest accuracy:
 === Leaderboard (sorted by rank) ===
 Rank: #50, Accuracy: 85.5
 Rank: #70, Accuracy: 92.1
-```
-
-
-✔ GitHub-optimized version
-✔ explanations with diagrams
-✔ rewriting for an assignment or report
-
-…just tell me.
